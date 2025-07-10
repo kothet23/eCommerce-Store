@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Cancelling Headphones",
+    "price": 249.99,
+    "category": "Electronics",
+    "description": "Immerse yourself in music with these high-fidelity, noise-cancelling headphones. Long-lasting battery and comfortable design.",
+    "image": "https://picsum.photos/seed/tech1/600/600"
+  },
+  {
+    "id": 2,
+    "name": "Smart Fitness Tracker Watch",
+    "price": 129.50,
+    "category": "Wearables",
+    "description": "Track your fitness goals, heart rate, and sleep patterns with this sleek and waterproof smart watch.",
+    "image": "https://picsum.photos/seed/tech2/600/600"
+  },
+  {
+    "id": 3,
+    "name": "Modern Leather Backpack",
+    "price": 89.99,
+    "category": "Accessories",
+    "description": "A stylish and durable backpack for daily use, with multiple compartments for your laptop and other essentials.",
+    "image": "https://picsum.photos/seed/fashion1/600/600"
+  },
+  {
+    "id": 4,
+    "name": "Organic Green Tea Set",
+    "price": 39.99,
+    "category": "Groceries",
+    "description": "A curated set of premium organic green teas, perfect for relaxation and a healthy lifestyle.",
+    "image": "https://picsum.photos/seed/food1/600/600"
+  },
+  {
+    "id": 5,
+    "name": "Portable Bluetooth Speaker",
+    "price": 75.00,
+    "category": "Electronics",
+    "description": "Enjoy powerful sound on the go with this compact and water-resistant Bluetooth speaker. 12-hour playtime.",
+    "image": "https://picsum.photos/seed/tech3/600/600"
+  },
+  {
+    "id": 6,
+    "name": "Gourmet Coffee Bean Sampler",
+    "price": 45.00,
+    "category": "Groceries",
+    "description": "Explore a world of flavor with this sampler of single-origin gourmet coffee beans from around the globe.",
+    "image": "https://picsum.photos/seed/food2/600/600"
+  },
+  {
+    "id": 7,
+    "name": "Ergonomic Office Chair",
+    "price": 350.00,
+    "category": "Furniture",
+    "description": "Improve your posture and comfort with this fully adjustable ergonomic office chair with lumbar support.",
+    "image": "https://picsum.photos/seed/home1/600/600"
+  },
+  {
+    "id": 8,
+    "name": "Minimalist Wrist Watch",
+    "price": 199.99,
+    "category": "Accessories",
+    "description": "A classic timepiece with a minimalist design, featuring a stainless steel case and a genuine leather strap.",
+    "image": "https://picsum.photos/seed/fashion2/600/600"
+  }
+]

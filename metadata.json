@@ -1,0 +1,6 @@
+{
+  "name": "React eCommerce Store Template",
+  "description": "A fully responsive eCommerce template built with React, TypeScript, and Tailwind CSS. It features dynamic product listings, a shopping cart, and a clean, modern design. No backend is required.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
